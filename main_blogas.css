@@ -1,0 +1,53 @@
+body{
+    background-color: #d5c9b0;
+}
+h1, h2, h3, h4, h5, h6{
+    color: #7c5429;
+    font-family: 'Roboto Slab', serif;
+}
+#header{
+    padding: 10px;
+}
+header{
+    padding: 20px;
+}
+a:link{
+    text-decoration: none;
+    padding: 10px;
+    color: #7c5429;
+    font-family: 'Roboto', sans-serif;
+}
+a:visited{
+    text-decoration: none;
+    padding: 10px;
+    color: #7c5429;
+}
+a:hover{
+    text-decoration: none;
+    padding: 10px;
+    color: #baa998;
+}
+.article-image{
+    height: 200px;
+    float: left;
+    padding: 10px;
+}
+.article-div{
+    background-color: #5f7b7e;
+    height: 220px;
+    margin: 10px;
+}
+article{
+    padding: 40px;
+}
+.article-header{
+    color: #1f2431;
+}
+.article-text{
+    color: #293042;
+    font-family: 'Roboto', sans-serif;
+}
+.date{
+    color: #33687c;
+    font-family: 'Roboto', sans-serif;
+}
